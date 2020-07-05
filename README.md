@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+- My name is Ema.
+- I am a software developer from :malaysia:.
+- I code in Java on daily basis.
+- I also code in Javascript occasionally.
+- I used to code in C#, .NET, PHP, C and Assembly Language in my previous projects.
+- I am currently learning Python.
 <!--
 **emafazillah/emafazillah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
